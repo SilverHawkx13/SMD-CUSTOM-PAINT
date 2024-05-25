@@ -1,3 +1,3 @@
-# custom_painter
+# Custom Paint in Flutter
 
-## Custom Paint implementation in Flutter
+## Custom Paint Implementation in Flutter
